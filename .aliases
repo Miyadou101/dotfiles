@@ -1,0 +1,41 @@
+#here we store the aliases
+
+alias Flag vi="lvim"
+alias Flag mki="make install"
+alias Flag mkui="make unistall"
+alias Flag lua="luajit"
+alias Flag btw="neofetch"
+alias Flag top="htop"
+alias Flag instl="sudo nala install "
+alias Flag rmv="sudo nala remove "
+alias Flag purg="sudo nala purge "
+alias Flag upgrade="sudo nala update && upgrade"
+alias Flag desk="cd /home/miyadou/Bureau/"
+alias Flag dwnld="cd /home/miyadou/Téléchargements/"
+alias Flag music="cd /home/miyadou/Musique/"
+alias Flag vid="cd /home/miyadou/Vidéos/"
+alias Flag game="cd /home/miyadou/Games/"
+alias Flag img="cd /home/miyadou/Images/"
+alias Flag dev="cd /home/miyadou/Programming/"
+alias Flag book="cd /home/miyadou/Books/"
+alias Flag prjct="cd /home/miyadou/Modèles/"
+alias Flag aud="Tenacity"
+alias Flag daw="lmms"
+#alias Flag =""
+#alias Flag =""
+#alias Flag =""
+#alias Flag =""
+#alias Flag =""
+#alias Flag =""
+#alias Flag =""
+#alias Flag =""
+#alias Flag =""
+
+
+
+
+
+
+
+
+
